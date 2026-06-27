@@ -31,7 +31,6 @@ Computer Engineering graduate building **production AI systems** — RAG & LLM p
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
 
 **Generative AI / LLM**
 
@@ -57,6 +56,7 @@ Computer Engineering graduate building **production AI systems** — RAG & LLM p
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 **Cloud & Data**
 
@@ -82,7 +82,6 @@ Computer Engineering graduate building **production AI systems** — RAG & LLM p
 
 ⚙️ &nbsp; **Full-stack backends** — async APIs and data-heavy PostgreSQL systems, with React frontends
 
-<sub>📌 My pinned repositories go deeper — each ships its own README & demo.</sub>
 
 <br>
 
