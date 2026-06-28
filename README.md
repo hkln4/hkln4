@@ -81,19 +81,3 @@ Computer Engineering graduate building **production AI systems** — RAG & LLM p
 🔎 &nbsp; **LLM & RAG systems** — retrieval-augmented QA, evaluation tooling, and LLM-backed services
 
 ⚙️ &nbsp; **Full-stack backends** — async APIs and data-heavy PostgreSQL systems, with React frontends
-
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hkln4&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkln4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hkln4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook)
-
-</div>
-
----
