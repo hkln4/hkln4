@@ -8,6 +8,7 @@ Computer Engineering graduate building **production AI systems** — RAG & LLM p
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Website-14161B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjggOCA0OCA0OCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTkgNDQuNVYxOS4xSDEyLjhWMjUuNEwxMi43IDI5SDEyLjhRMTMgMjcuNCAxNC4xIDI2LjNRMTUuNCAyNS4xIDE3LjggMjUuMVEyMC43IDI1LjEgMjIuNCAyNi45UTI0LjEgMjguNyAyNC4xIDMxLjhWNDQuNUgyMC4zVjMyLjJRMjAuMyAzMC4zIDE5LjMgMjkuM1ExOC4zIDI4LjIgMTYuNiAyOC4yUTE0LjggMjguMiAxMy44IDI5LjNRMTIuOCAzMC40IDEyLjggMzIuNVY0NC41WiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0zMCA0NC41VjE5LjFIMzMuN1YzMy4xSDM3LjFMNDIuMSAyNS40SDQ2LjRMNDAuMyAzNC42TDQ2LjUgNDQuNUg0Mi4yTDM3LjEgMzYuM0gzMy43VjQ0LjVaIi8+PHBhdGggZmlsbD0iIzhGQTBGRiIgZD0iTTUxLjkgNDQuOVE1MC42IDQ0LjkgNDkuNyA0NFE0OC45IDQzLjIgNDguOSA0MS44UTQ4LjkgNDAuNCA0OS43IDM5LjZRNTAuNiAzOC43IDUxLjkgMzguN1E1My40IDM4LjcgNTQuMiAzOS42UTU1IDQwLjQgNTUgNDEuOFE1NSA0My4yIDU0LjIgNDRRNTMuNCA0NC45IDUxLjkgNDQuOVoiLz48L3N2Zz4=)](https://SITE-ADRESIN.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-kalin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsnkln4@gmail.com)
 
